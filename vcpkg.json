@@ -1,0 +1,7 @@
+{
+  "name": "vcpkg-test",
+  "version-string": "latest",
+  "dependencies": [
+    "fribidi"
+  ]
+}
